@@ -1,0 +1,1 @@
+def gerar_relatorio():
