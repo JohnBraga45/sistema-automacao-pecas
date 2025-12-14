@@ -43,7 +43,8 @@ Caso contrário, a peça será **REPROVADA**, com o motivo registrado.
 ### 🚀 Passo a passo
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario seu-repositorio.git
+git clone https://github.com/JohnBraga45/sistema-automacao-pecas.git
+
 
 cd seu-repositorio
 
